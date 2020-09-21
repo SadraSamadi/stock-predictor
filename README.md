@@ -1,16 +1,21 @@
-# Prediction of Stock Market using Artificial Neural Networks
+# Stock Predictor
 
-## Team Members:
-- Sadra Samadi (9312268122)
-- Ali Sadeghi (94012269030)
-- Mohammad Ziarati (94012269032)
+- Final Project
+- Guilan University
+- Fall 2019
+- Computational Intelligence
+- Logistic Regression
+- Keras
+- Indicators
+    - RSI
+    - Stochastic Oscillator
+    - Williams %R
+    - MACD
+    - Price Rate of Change
+    - On Balance Volume
 
-## Descreption:
+#### Contributers
 
-### Libs:
-* pandas
-* numpy
-* matplotlib
-* scikit-learn
-* keras
-* tensorflow
+- Sadra Samadi
+- Ali Sadeghi
+- Mohammad Ziarati 
